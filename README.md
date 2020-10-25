@@ -13,6 +13,15 @@ def get_into_my_brain():
     for homer_thoughts in random_thoughts:
         print(homer_thoughts)
 ```
+Output: 
+```
+cats
+the simpsons
+spaceships
+aliens
+drones
+...
+```
 
     
 
