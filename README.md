@@ -8,7 +8,7 @@ My name is João, and I'm from Portugal!
 - 💬 Ask me about drones
 - ⚡ Fun fact: Earth weight is 5,972 × 10^24 kg
 
-```
+```python
 def get_into_my_brain():
     for homer_thoughts in random_thoughts:
         print(homer_thoughts)
